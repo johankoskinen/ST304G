@@ -1,0 +1,7 @@
+FISHTYPE ENERGY FAT CALCIUM
+Mackerel 5 9 20 
+Perch 6 11 2
+Salmon 4 5 20
+Sardines 6 9 46
+Tuna 5 7 1
+Shrimp 3 2 12
